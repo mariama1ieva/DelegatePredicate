@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\List\Delegate-Predicate\Delegate-Predicate\bin\Debug\net6.0\Delegate-Predicate.exe
+C:\Users\Asus\OneDrive\Desktop\List\Delegate-Predicate\Delegate-Predicate\bin\Debug\net6.0\Delegate-Predicate.deps.json
+C:\Users\Asus\OneDrive\Desktop\List\Delegate-Predicate\Delegate-Predicate\bin\Debug\net6.0\Delegate-Predicate.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\List\Delegate-Predicate\Delegate-Predicate\bin\Debug\net6.0\Delegate-Predicate.dll
+C:\Users\Asus\OneDrive\Desktop\List\Delegate-Predicate\Delegate-Predicate\bin\Debug\net6.0\Delegate-Predicate.pdb
+C:\Users\Asus\OneDrive\Desktop\List\Delegate-Predicate\Delegate-Predicate\obj\Debug\net6.0\Delegate-Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\List\Delegate-Predicate\Delegate-Predicate\obj\Debug\net6.0\Delegate-Predicate.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\List\Delegate-Predicate\Delegate-Predicate\obj\Debug\net6.0\Delegate-Predicate.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\List\Delegate-Predicate\Delegate-Predicate\obj\Debug\net6.0\Delegate-Predicate.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\List\Delegate-Predicate\Delegate-Predicate\obj\Debug\net6.0\Delegate-Predicate.dll
+C:\Users\Asus\OneDrive\Desktop\List\Delegate-Predicate\Delegate-Predicate\obj\Debug\net6.0\refint\Delegate-Predicate.dll
+C:\Users\Asus\OneDrive\Desktop\List\Delegate-Predicate\Delegate-Predicate\obj\Debug\net6.0\Delegate-Predicate.pdb
+C:\Users\Asus\OneDrive\Desktop\List\Delegate-Predicate\Delegate-Predicate\obj\Debug\net6.0\Delegate-Predicate.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\List\Delegate-Predicate\Delegate-Predicate\obj\Debug\net6.0\ref\Delegate-Predicate.dll
